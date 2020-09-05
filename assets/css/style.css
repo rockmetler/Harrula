@@ -118,10 +118,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
+  background: #ffffff;
+  color: #2f2f2f;
 }
 
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(0, 0, 0, 0.8);
+  background: #ffffff;
 }
 
 #header .logo {
@@ -135,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #fff;
+  color: #2f2f2f;
 }
 
 #header .logo a span {
@@ -169,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color: #2f2f2f;
   transition: 0.3s;
   font-size: 15px;
   font-family: "Open Sans", sans-serif;
